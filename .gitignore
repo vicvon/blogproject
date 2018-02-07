@@ -1,1 +1,5 @@
 .idea
+blogproject/__pycache__
+blog/migrations/0001_initial.py
+blog/__pycache__
+blog/migrations/__pycache__
