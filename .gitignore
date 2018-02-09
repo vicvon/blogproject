@@ -3,3 +3,5 @@ blogproject/__pycache__
 blog/migrations/0001_initial.py
 blog/__pycache__
 blog/migrations/__pycache__
+comments/migrations/0001_initial.py
+blog/templatetags/__pycache__
